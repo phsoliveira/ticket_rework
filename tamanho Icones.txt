@@ -1,0 +1,2 @@
+LARGURA - 18,81 px
+ALTURA - 18 px
